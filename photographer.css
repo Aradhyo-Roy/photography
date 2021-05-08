@@ -1,0 +1,15 @@
+body{text-align: center;
+background-color:burlywood;
+}
+h1{color: brown;
+}
+h6{color:saddlebrown;
+}
+img{border-style: solid;
+padding: 20px;
+}
+span{margin-right: 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
